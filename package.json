@@ -1,0 +1,19 @@
+{
+  "name": "@TimothyNaumov/cowbelltypes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimothyNaumov/cowbelltypes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimothyNaumov/cowbelltypes/issues"
+  },
+  "homepage": "https://github.com/TimothyNaumov/cowbelltypes#readme"
+}
