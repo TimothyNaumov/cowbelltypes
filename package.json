@@ -2,7 +2,7 @@
   "name": "@TimothyNaumov/cowbelltypes",
   "version": "1.0.0",
   "description": "",
-  "main": "index.d.ts",
+  "main": "cowbell-shared.d.ts",
   "scripts": {
     "test": "exit 0"
   },
